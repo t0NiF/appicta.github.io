@@ -1,0 +1,36 @@
+# Appicta
+
+> Appicta is a mobile app that turns any PDF into a live, on-the-spot inspection
+> record. Import a plan, drop numbered markers, attach photos and voice notes,
+> sketch to scale, and export a client-ready PDF and photo report in one tap —
+> on site, before you leave. Designed and built in Switzerland. Coming soon to
+> the Apple App Store and Google Play (iOS and Android).
+
+## What it does
+- Annotate any PDF (floor plan, site map, vehicle diagram, survey form) with numbered markers — no redrawing, no second app.
+- Attach a photo and a voice note to each marker; type it up later if preferred.
+- Sketch markup that scales and pans with the plan, so it stays true to scale instead of drifting when you zoom.
+- Export an annotated PDF, a photo appendix, and every original photo and voice memo in one tap.
+
+## Who it is for
+- Property and real estate walkthroughs
+- Vehicle and fleet inspections
+- Environmental and ecological surveys
+- Facilities and maintenance rounds
+- Construction and site visits
+
+## Key facts
+- Platforms: iOS and Android (coming soon)
+- Origin: Designed and built in Switzerland
+- Made by: Tobias Filiberti (Developer) and David Filiberti (Developer)
+
+## Team
+- Tobias Filiberti, Developer — LinkedIn: https://www.linkedin.com/in/tobias-f-b0b5a01b9/
+- David Filiberti, Developer — LinkedIn: https://www.linkedin.com/in/david-filiberti-50a7b71b7/
+
+## Pages
+- Home: https://www.appicta.com/
+- Features: https://www.appicta.com/#features
+- About: https://www.appicta.com/#about
+- FAQ: https://www.appicta.com/#faq
+- Download: https://www.appicta.com/#download
