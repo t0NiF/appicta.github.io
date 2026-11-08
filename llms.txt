@@ -3,7 +3,7 @@
 > Appicta is a mobile app that turns any PDF into a live, on-the-spot inspection
 > record. Import a plan, drop numbered markers, attach photos and voice notes,
 > sketch to scale, and export a client-ready PDF and photo report in one tap —
-> on site, before you leave. Designed and built in Switzerland. Coming soon to
+> on site, before you leave. Designed and built in Switzerland. Available on
 > the Apple App Store and Google Play (iOS and Android).
 
 ## What it does
@@ -20,7 +20,7 @@
 - Construction and site visits
 
 ## Key facts
-- Platforms: iOS and Android (coming soon)
+- Platforms: iOS (Apple App Store) and Android (Google Play)
 - Origin: Designed and built in Switzerland
 - Made by: Tobias Filiberti (Developer) and David Filiberti (Developer)
 
