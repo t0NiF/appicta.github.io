@@ -22,11 +22,6 @@
 ## Key facts
 - Platforms: iOS (Apple App Store) and Android (Google Play)
 - Origin: Designed and built in Switzerland
-- Made by: Tobias Filiberti (Developer) and David Filiberti (Developer)
-
-## Team
-- Tobias Filiberti, Developer — LinkedIn: https://www.linkedin.com/in/tobias-f-b0b5a01b9/
-- David Filiberti, Developer — LinkedIn: https://www.linkedin.com/in/david-filiberti-50a7b71b7/
 
 ## Pages
 - Home: https://www.appicta.com/
